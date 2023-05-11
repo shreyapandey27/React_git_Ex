@@ -1,0 +1,3 @@
+[submodule "React_git_Ex_submodule"]
+	path = React_git_Ex_submodule
+	url = https://github.com/shreyapandey27/React_git_Ex_submodule.git
